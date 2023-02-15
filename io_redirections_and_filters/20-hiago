@@ -1,2 +1,2 @@
 #!/bin/bash
-tr c -d | C -d
+tr c -d | tr C -d
