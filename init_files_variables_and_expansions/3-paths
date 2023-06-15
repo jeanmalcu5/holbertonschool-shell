@@ -1,2 +1,2 @@
 #!/bin/bash
-tree $PATH
+export=$PATH | find -type d | wc -l
